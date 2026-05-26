@@ -2,7 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
-Visualização geográfica de ordens de serviço em um mapa interativo. Permite acompanhar registros e OS distribuídos no território de forma visual e intuitiva.
+Ferramenta de visualização geográfica de ordens de serviço em mapa interativo. Permite acompanhar a distribuição de atendimentos pelo território de forma visual e intuitiva.
 
 ## Funcionalidades
 
